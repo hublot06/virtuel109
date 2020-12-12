@@ -23,6 +23,10 @@ Tester une demo
 
 Voice chat avec serveur photon
 https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518
+ou
+Pour la voice, sur secondlife(tm) et opensimulator, c'est vivox qui marche bien et j'ai appris qu'ils se concentrent maintenant sur unity :
+https://unity.com/fr/products/vivox
+
 
 Jeu third person avec avatar humain
 https://assetstore.unity.com/packages/templates/systems/3rd-person-controller-fly-mode-28647
@@ -32,6 +36,8 @@ Pas tester d'asset encore ...
 
 Objectif 01 :
 Mixer ces assets pour obtenir un jeu multiplayer third person avec avatar humain, voice chat, live event ...
+Fusionner PUN 02 et 3rd person shadow ok ...
+Photon voice 02 signale beaucoup d'erreur et d'avertissement !
 
 
 
