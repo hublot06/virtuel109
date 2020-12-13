@@ -42,6 +42,7 @@ Fusionner PUN 02 multiplayer et 3rd person shadow avatar ok ...
 Fusioner shadow avatar multijoueur avec demos photon voice 02
 Photon voice 02 signale beaucoup d'erreur et d'avertissement !
 Utilisation de la demo DemoProximityVoiceChat avc photon voice 02 : Ca fonctionne bien et sans erreur ...
+Utilisation de l'asset du player shadow avec photon multiplayer et chat voice : Ok !
 
 Objectif 02 :
 Live event transmettre un flux audio vidéo direct dans le monde virtuel
