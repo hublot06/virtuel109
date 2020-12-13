@@ -35,9 +35,18 @@ Live event
 Pas tester d'asset encore ...
 
 Objectif 01 :
-Mixer ces assets pour obtenir un jeu multiplayer third person avec avatar humain, voice chat, live event ...
-Fusionner PUN 02 et 3rd person shadow ok ...
+Fusionner ces assets pour obtenir un jeu multiplayer third person avec avatar humain, voice chat
+
+Fusionner PUN 02 multiplayer et 3rd person shadow avatar ok ...
+
+Fusioner shadow avatar multijoueur avec demos photon voice 02
 Photon voice 02 signale beaucoup d'erreur et d'avertissement !
+Utilisation de la demo DemoProximityVoiceChat avc photon voice 02 : Ca fonctionne bien et sans erreur ...
 
+Objectif 02 :
+Live event transmettre un flux audio vidéo direct dans le monde virtuel
 
+Objectif 03 :
+Pouvoir selectionner différents avatars
+Atelier de fabrications d'avatars
 
