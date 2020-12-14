@@ -42,7 +42,11 @@ Fusionner PUN 02 multiplayer et 3rd person shadow avatar ok ...
 Fusioner shadow avatar multijoueur avec demos photon voice 02
 Photon voice 02 signale beaucoup d'erreur et d'avertissement !
 Utilisation de la demo DemoProximityVoiceChat avc photon voice 02 : Ca fonctionne bien et sans erreur ...
-Utilisation de l'asset du player shadow avec photon multiplayer et chat voice : Ok !
+Utilisation de l'asset du player shadow avec photon multiplayer et chat voice : Ok
+Impossible de compiler avec une plateforme WEBGL. Le micro en ligne n'est pas géré par Unity.
+Build pour PC est ok
+Par contre un bug entre unity 2020 et photon sur le load d'un préfab. Il faut modifier et enregistrer pour qu'il trouve l'adresse du Gameobject
+fand le dossier ressource !
 
 Objectif 02 :
 Live event transmettre un flux audio vidéo direct dans le monde virtuel
